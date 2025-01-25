@@ -3,7 +3,7 @@ Mods made by Horror for Pvzh the mobile game
 
 To Install mods simply replace the files from the folder with the modded files to your games <b>Android\data\com.ea.gp.pvzheroes\files\cache\bundles\files</b> folder/it's subfolders
 
-In case you are still confused look it up on youtube, there are tutorials on how to install mods
+In case you are still confused look it up on youtube, there are tutorials on how to install mods (https://www.youtube.com/results?search_query=pvzh+how+to+install+mods)
 
 # Quality of life mods:
 
