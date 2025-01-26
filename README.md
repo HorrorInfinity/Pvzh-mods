@@ -7,7 +7,7 @@ In case you are still confused look it up on youtube, there are tutorials on how
 
 # Quality of life mods:
 
-Event Overhaul: Improves the Event ticket system 
+<I>Event Overhaul:</I> Improves the Event ticket system 
 
 How to install: Move the file to <b>Android\data\com.ea.gp.pvzheroes\files\cache\bundles\files</b> and replace the existing card_data file in there with the one you downloaded
 
