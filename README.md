@@ -10,6 +10,7 @@ In case you are still confused look it up on youtube, there are tutorials on how
 <I>Event Overhaul:</I> Improves the Event ticket system 
 
 How to install: Move the file to <b>Android\data\com.ea.gp.pvzheroes\files\cache\bundles\files</b> and replace the existing card_data file in there with the one you downloaded
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <I>Fixed text:</I> fixes most (99%) of text errors in the game since the new update ( 1.60.13 ), adds descriptions to bugged cards that describe their bugs
