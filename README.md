@@ -14,3 +14,5 @@ In case you are still confused look it up on youtube, there are tutorials on how
 How to install: Move the file to <b>Android\data\com.ea.gp.pvzheroes\files\cache\bundles\files\loc</b> and replace the existing en_307 file in there with the one you downloaded
 
 Updated at 5/17/2025, guaranteed compatible with game version v1.61.37 and forward, you can find me on discord (username 'horrorinfinitum') if you want to ask questions etc
+
+Updated at 5/21/2025, added 2 Wizard garg bugs that were previously missed, added an Octo zombie bug to it's flavor text
